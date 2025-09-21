@@ -267,10 +267,12 @@ main{
         margin-bottom:48px ;
         background-color: #D87D4A;
         .circle{
-             position: relative;
+            position: relative;
+             
              .c1{
                  position: absolute;
                  bottom: -280px;
+                 
                 }
              .c2{
                  position: absolute;
@@ -342,4 +344,16 @@ main{
          }
         
        }
+}
+.s4{
+    .son{
+        width: 1110px;
+        height: 320px;
+        background-image: url(./image/s4.png);
+        background-repeat: no-repeat;
+        background-attachment:inherit;  
+        background-size:cover;
+       .prag{
+       }
+    }
 }
