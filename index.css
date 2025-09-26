@@ -101,6 +101,9 @@ main{
    width: 1110px;
    height: 284px;
    margin: 120px 0 168px 0;
+   .animate__animated.animate__pulse {
+      --animate-duration: 2s;
+    }
    .container{
        gap:30px;
        padding-top: 80px;
@@ -118,15 +121,15 @@ main{
                border-radius: 8px;
                
                .ig1{
-                width: 122.9473648071289px;
-                height: 160px;
-                position:absolute ;
-                bottom: 124px;
-                left: 113.63px;
-              }
-              .ig2{
-                  position: absolute;
-                  bottom: 73px;
+                   width: 122.9473648071289px;
+                   height: 160px;
+                   position:absolute ;
+                   bottom: 124px;
+                   left: 113.63px;
+                }
+                .ig2{
+                    position: absolute;
+                    bottom: 73px;
 
               }
               
