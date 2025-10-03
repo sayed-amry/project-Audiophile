@@ -361,10 +361,10 @@ main{
         background-image: url(./image/s4.png);
         background-color: rgba(241, 241, 241, 1);
         background-blend-mode:luminosity;  
-        background-position-y: 95%;
-        
+        background-position-y: 87%;
+        background-position-x: -133.88px;
         background-repeat: no-repeat;
-        background-size:cover;
+        background-size:1247.2386474609375px 863px;
         transform: rotateY(180deg);
         .son2{
             width: 204px;
